@@ -1,0 +1,6 @@
+All the hoemwork sections have been written to one C file named homework1.c 
+and the homework1.exe also include in this archive if you want run the code 
+you can use "gcc homework1.c -o homework" to compile the code and use "./homework"
+to run the code or you can directly use "./homework" to run the code.
+And in the running program the information about what you need type in have 
+been printed on the screen so just follow the guidance.
